@@ -1,4 +1,4 @@
-
+%       MATLAB ver R2018b used
 %       This part of the code is the script part. Here the calculations are made.
 %%
 [Y_matrix, B_type,bus,P_Generated,P_Load,Q_Generated,Q_Load,V] = IEEE_Ymat_Build % returns a Y matrix, B_type, bus as a call to indicate the outputs that will be used
